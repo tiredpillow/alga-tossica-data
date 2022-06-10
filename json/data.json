@@ -1,0 +1,182 @@
+[
+    {
+      "province": "Foggia",
+      "city": "Isola S. Domino",
+      "placeTitle": "S.Domino - sotto il ristorante Il Pirata",
+      "date": "21/09/2021",
+      "value": 560,
+      "lat": 42.1212,
+      "lon": 15.4968
+    },
+    {
+      "province": "Foggia",
+      "city": "Vico del Gargano",
+      "placeTitle": "Loc. Pietra nera a 30 mt a destra del canale",
+      "date": "23/09/2021",
+      "value": 0,
+      "lat": 41.919,
+      "lon": 15.3418
+    },
+    {
+      "province": "Foggia",
+      "city": "Vieste",
+      "placeTitle": "Porto di Vieste 100 mt a destra",
+      "date": "29/09/2021",
+      "value": 0,
+      "lat": 41.8881,
+      "lon": 16.1785
+    },
+    {
+      "province": "Foggia",
+      "city": "Vieste",
+      "placeTitle": "Spiagga Pugnochiuso",
+      "date": "23/09/2021",
+      "value": 0,
+      "lat": 41.7854,
+      "lon": 16.1884
+    },
+    {
+      "province": "Foggia",
+      "city": "Mattinata",
+      "placeTitle": "Spiaggia Baia delle zagare",
+      "date": "23/09/2021",
+      "value": 0,
+      "lat": 41.7483,
+      "lon": 16.1469
+    },
+    {
+      "province": "Barletta-Andria-Trani",
+      "city": "Bisceglie",
+      "placeTitle": "500 mt a sud della fogna cittadina",
+      "date": "16/09/2021",
+      "value": 0,
+      "lat": 41.2412,
+      "lon": 16.5265
+    },
+    {
+      "province": "Bari",
+      "city": "Molfetta",
+      "placeTitle": "Molfetta prima cala",
+      "date": "16/09/2021",
+      "value": 5834,
+      "lat": 41.1984,
+      "lon": 16.6159
+    },
+    {
+      "province": "Bari",
+      "city": "Giovinazzo",
+      "placeTitle": "Hotel Riva del sole",
+      "date": "16/09/2021",
+      "value": 300,
+      "lat": 41.1737,
+      "lon": 16.7171
+    },
+    {
+      "province": "Bari",
+      "city": "Giovinazzo",
+      "placeTitle": "200 metri a sud del Lido Lucciola",
+      "date": "16/09/2021",
+      "value": 1160,
+      "lat": 41.1704,
+      "lon": 16.7332
+    },
+    {
+      "province": "Bari",
+      "city": "Bari",
+      "placeTitle": "Lido Trullo",
+      "date": "16/09/2021",
+      "value": 240,
+      "lat": 41.1081,
+      "lon": 16.9375
+    },
+    {
+      "province": "Bari",
+      "city": "Mola di Bari",
+      "placeTitle": "ditta IOM-ex Sansolive",
+      "date": "16/09/2021",
+      "value": 8900,
+      "lat": 41.0445,
+      "lon": 17.1294
+    },
+    {
+      "province": "Bari",
+      "city": "Monopoli",
+      "placeTitle": "Castello S.Stefano",
+      "date": "16/09/2021",
+      "value": 0,
+      "lat": 40.9305,
+      "lon": 17.3333
+    },
+    {
+      "province": "Brindisi",
+      "city": "Fasano",
+      "placeTitle": "La Forcatella prima casa bianca",
+      "date": "22/09/2021",
+      "value": 918,
+      "lat": 40.8548,
+      "lon": 17.4456
+    },
+    {
+      "province": "Brindisi",
+      "city": "Fasano",
+      "placeTitle": "Torre Canne di fronte al faro",
+      "date": "22/09/2021",
+      "value": 717,
+      "lat": 40.8419,
+      "lon": 17.4711
+    },
+    {
+      "province": "Brindisi",
+      "city": "Brindisi",
+      "placeTitle": "Apani - Lido S.Vincenzo",
+      "date": "22/09/2021",
+      "value": 39,
+      "lat": 40.6962,
+      "lon": 17.8278
+    },
+    {
+      "province": "Lecce",
+      "city": "Lecce",
+      "placeTitle": "San Cataldo - vicino al Faro",
+      "date": "20/09/2021",
+      "value": 0,
+      "lat": 40.3934,
+      "lon": 18.3054
+    },
+    {
+      "province": "Lecce",
+      "city": "Otranto",
+      "placeTitle": "Porto Badisco-scalo di Enea",
+      "date": "20/09/2021",
+      "value": 0,
+      "lat": 40.0801,
+      "lon": 18.4846
+    },
+    {
+      "province": "Lecce",
+      "city": "Ugento",
+      "placeTitle": "scarico Ittica Ugento a Punta Macolone",
+      "date": "20/09/2021",
+      "value": 0,
+      "lat": 39.8501,
+      "lon": 18.1716
+    },
+    {
+      "province": "Taranto",
+      "city": "Manduria",
+      "placeTitle": "spiaggia libera Torre Columena",
+      "date": "22/09/2021",
+      "value": 0,
+      "lat": 40.2957,
+      "lon": 17.7459
+    },
+    {
+      "province": "Taranto",
+      "city": "Leporano",
+      "placeTitle": "stabilimento Baia d'argento",
+      "date": "22/09/2021",
+      "value": 0,
+      "lat": 40.3614,
+      "lon": 17.3302
+    }
+  ]
